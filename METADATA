@@ -6,8 +6,8 @@ third_party {
     value: "https://crates.io/crates/shlex"
   }
   url {
-    type: GIT
-    value: "https://github.com/comex/rust-shlex"
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/shlex/shlex-0.1.1.crate"
   }
   version: "0.1.1"
   license_type: NOTICE
